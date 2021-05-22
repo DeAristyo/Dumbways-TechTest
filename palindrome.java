@@ -1,4 +1,4 @@
-public class Palindrome {
+public class main {
     public static void main(String[] args) {
         int angka = 36163;
         int temp = angka;
