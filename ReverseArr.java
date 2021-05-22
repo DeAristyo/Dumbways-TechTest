@@ -1,4 +1,4 @@
-public class ReverseArr {
+public class main {
     public static void main(String[] args) {
         int[] angka = {91, 82, 73, 64, 55, 46, 37, 28, 19};
         
